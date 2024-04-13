@@ -19,7 +19,6 @@ Run in Google Colab: For optimal results, it is recommended to run FairUS in a G
 Follow this example to witness the FairUS technique in action:
 
 In the “Datasets & Params” section (cell 1), set DATASET_NAME to your preferred dataset. For instance, you can choose to experiment with COMPAS_RACE_AM.
-Consider setting it to 1 to prioritize fairness.
 Execute the code to initiate the bias mitigation process using FairUS.
 
 ## Assess the Results:
