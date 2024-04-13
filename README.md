@@ -25,5 +25,5 @@ Execute the code to initiate the bias mitigation process using FairUS.
 Once the code execution is complete, examine the accuracy and equalized odds metrics of the upsampled dataset. Compare these metrics with those of the original dataset to gauge the effectiveness of the FairUS
 technique.
 
-##Note
+## Note
 Please note that the code assumes you have the required packages installed ( there are pip install commands in the code) and the specified datasets available in the ‘FairUs datasets’ folder. The code is designed to demonstrate the FairUS technique for achieving bias mitigation.
