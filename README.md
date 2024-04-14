@@ -6,14 +6,10 @@ We introduce 'FairUS,' a novel pre-processing method for reducing bias in ML mod
 We carried out extensive evaluations of our method using several canonical datasets and benchmarked our results against other related works. The results show that the proposed method enhances fairness by 2.7 times more than the related work while simultaneously preserving the performance of the ML model. Moreover, less than a third of the amount of synthetic data was needed on average. Uniquely, the proposed method enables decision-makers to choose the working point between improved fairness and model’s performance according to their preferences.
 
 
-
-![image](https://github.com/GuyRozenblatt/FairUS/assets/65950438/d70a8c8d-8c68-4e1d-93ca-bd270cd43396)
-
-
 ## Getting Started:
 Follow these steps to utilize the FairUS technique effectively:
 
-Select a Dataset: Navigate to the “Datasets & Params” section (cell 8) and choose the experiment you wish to run. Modify the DATASET_NAME variable to match your selected dataset. You have the freedom to pick from various experiments such as COMPAS, ADULT, CREDIT, BANK, and RECRUIT.
+Select a Dataset: Navigate to the “Datasets & Params” section (cell 1) and choose the experiment you wish to run. Modify the DATASET_NAME variable to match your selected dataset. You have the freedom to pick from various experiments such as COMPAS, ADULT, CREDIT, BANK, and RECRUIT.
 
 Run in Google Colab: For optimal results, it is recommended to run FairUS in a Google Colab environment. This cloud-based platform provides the necessary resources and infrastructure to execute your bias mitigation experiments seamlessly.
 
