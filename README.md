@@ -13,6 +13,8 @@ Select a Dataset: Navigate to the “Datasets & Params” section (cell 1) and c
 
 Run in Google Colab: For optimal results, it is recommended to run FairUS in a Google Colab environment. This cloud-based platform provides the necessary resources and infrastructure to execute your bias mitigation experiments seamlessly.
 
+Upload the dataset to the Colab environment from the ‘FairUs datasets’ folder.
+
 ## Example:
 Follow this example to witness the FairUS technique in action:
 
@@ -25,3 +27,4 @@ technique.
 
 ## Note
 Please note that the code assumes you have the required packages installed ( there are pip install commands in the code) and the specified datasets available in the ‘FairUs datasets’ folder. The code is designed to demonstrate the FairUS technique for achieving bias mitigation.
+For additional datasets, please add the datasets to the Colab environment and add the relevant pre-processing at cell 9.
