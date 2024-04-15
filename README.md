@@ -27,4 +27,5 @@ technique.
 
 ## Note
 Please note that the code assumes you have the required packages installed ( there are pip install commands in the code) and the specified datasets available in the ‘FairUs datasets’ folder. The code is designed to demonstrate the FairUS technique for achieving bias mitigation.
+
 For additional datasets, please add the datasets to the Colab environment and add the relevant pre-processing at cell 9.
